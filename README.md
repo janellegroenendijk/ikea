@@ -1,2 +1,2 @@
-# ikea
-Eindopdracht frontend jaar 2 CMD
+# Burgerking
+Eindopdracht frontend jaar 2 CMD herkansing 2020
